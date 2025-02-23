@@ -21,6 +21,7 @@ Now, for anyone who doesn't want to go through the hassle of learning something 
 <br> As this is a public repository and I've set the permissions to allow everyone to have pull access this should be relatively easy to explain <br>
 
 <br> First of all if you don't have git bash look up a tutorial to set it up and install it. <br>
+<br> **Tutorial** : https://www.youtube.com/watch?v=qdwWe9COT9k <br>
 
 <br> Once you have that done set up a new directory / folder in your Favourite IDE and name it something memorable! <br>
 
