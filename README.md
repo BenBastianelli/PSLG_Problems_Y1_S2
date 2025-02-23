@@ -1,9 +1,9 @@
-# PSLG_Problems_Y1_S2
+# 👾 PSLG_Problems_Y1_S2 👾
 **WELCOME ! to this semesters PSLG problem solution Github**<br>
 This file will serve as a guide on how to navigate the github and also might be some of your guys first intro to the powerful code sharing application that is github!<br>
 <br>for those who are new the below intro heading will explain how to navigate this and all repositories!!<br>
 
-## Intro
+## 💿Intro💿
 **So, How do I navigate a repository?!?!?**<br>
 Well with this github I will try to make it as stream lined as possible. <br>
 On the homepage of this repository (A place where people can organise and store code for projects) you should hopefully see a folder with some arbitrary name like <br>
@@ -15,7 +15,7 @@ On the homepage of this repository (A place where people can organise and store 
 
 <br> You may be asking however, "How do I run this really cool code you made?" and first of all thank you you're too nice! Second of all you can do it in 1 of two ways which is going to be our next heading 
 
-## Pulling from the repository
+## 🛜Pulling from the repository🛜
 Now, for anyone who doesn't want to go through the hassle of learning something new, you can just set-up a new project on your favourite IDE, Download the files using the download button on the top right of whatever file you've opened for whatever week and then open it up on said IDE and run it. But for those who want to learn how to pull from this git I'll explain that now. <br>
 
 <br> As this is a public repository and I've set the permissions to allow everyone to have pull access this should be relatively easy to explain <br>
