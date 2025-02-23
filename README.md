@@ -28,9 +28,11 @@ Now, for anyone who doesn't want to go through the hassle of learning something 
 
 <br> once there type the following commands! <br>
   - git init
-  - git remote add origin https://github.com/BenBastianelli/PSLG_Problems_Y1_S2
+  - git remote add origin https://github.com/BenBastianelli/PSLG_Problems_Y1_S2.git
   - git remote -v \# makes sure the remote was correctly set up
-  - git pull origin main \# pulls everything from the current version of this repository into your local folder
+  - git clone https://github.com/BenBastianelli/PSLG_Problems_Y1_S2.git  \# pulls everything from the current version of this repository into your local folder
+  - \# If you've already cloned the repository and only want to get the new files type the code below
+  - git pull origin main
 
 <br> **And thats it !!** You can now say your one step closer to being a full fledged developer as pretty much everyone uses github to work on their projects <br>
 
