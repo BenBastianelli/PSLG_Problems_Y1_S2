@@ -9,6 +9,8 @@ Well with this github I will try to make it as stream lined as possible. <br>
 On the homepage of this repository (A place where people can organise and store code for projects) you should hopefully see a folder with some arbitrary name like <br>
 ***"PSLG_Y2_S2"*** and if so thats great because it means I've done my job. <br>
 
+<br> Each folder of answers is in the src folder in the main branch of this repository <br>
+
 <br>If you click through that folder you'll find another one called ***"src"*** Which is where I will store the solutions for the problems each week!<br>
 
 <br> Each folder will be named as the relevant week to when the questions were posed so for example Week 1 will host the pascal triangle problem I did <br>
